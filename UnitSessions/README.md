@@ -1,6 +1,6 @@
 A space for pulling in materials for discussion / recording sessions, doubling as a from-the-hip curriculum unit for learning the same topics. 
 
-defined by: a centraal topic, likely a section of a paper
+defined by: a central topic, likely a section of a paper
 
 things that might belong in one of these: 
 - notes / talking points
