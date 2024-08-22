@@ -33,4 +33,4 @@ Ramp up your mindfulness on the following things:
 
 We want to strike a balance between Lecture-with-Hand-Raising (yuck, stuffy) and full chaos (unlistenable). 
 
-It feels a bit silly to codify these things, but I've found set of mutual social touchstones kept in mind helps a lot. 
+It feels a bit silly to codify these things, but I've found over several years of hosting virtual events that a set of mutual social touchstones kept in mind helps smooth things out a LOT. 
