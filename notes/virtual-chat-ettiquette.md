@@ -12,8 +12,8 @@ Ramp up your mindfulness on the following things:
   - promote good turn-taking, leave pauses for interjections or questions or etc.
   - remember that "pass the turn" is a valid action
 - **space-taking.**
-  - conversational space is limited, so be mindful of simultaneous speaking and infodumping complete paragraphs.
-  - both double-speaking and over-rambling are audio poison
+  - conversational space is limited by time (1-2 hours maybe, at most?) and bandwidth (we don't use 3d audio, so... 1-dimensional audio tracks) 
+  - SO! be mindful of simultaneous speaking and infodumping complete paragraphs, as both are audio poison AND both scramble conversation flow
 - **topic relevance.**
   - topic-jumping is big in adhd-town, but it's jarring for the listener and conversation partners.
   - try to delineat "this is an aside", or "tangentially related!" so that your conversation partners know what you're on about.
