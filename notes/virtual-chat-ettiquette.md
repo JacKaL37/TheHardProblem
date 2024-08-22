@@ -8,8 +8,9 @@ But, we've all been doing this virtual communication thing for a while, and some
 
 Ramp up your mindfulness on the following things: 
 - **conversational turn-taking.**
+  - remember the reason we've gathered here is to mix our diverse palettes together. 
   - promote good turn-taking, leave pauses for interjections or questions or etc.
-  - remember that "pass the turn" is a valid action. 
+  - remember that "pass the turn" is a valid action
 - **space-taking.**
   - conversational space is limited, so be mindful of simultaneous speaking and infodumping complete paragraphs.
   - both double-speaking and over-rambling are audio poison
