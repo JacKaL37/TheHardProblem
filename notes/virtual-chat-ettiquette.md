@@ -27,10 +27,13 @@ Ramp up your mindfulness on the following things:
   - the speed of light is fixed, so lag is a property of nature. i.e., we WILL collide and talk over each other.
   - keep a mind on recognizing when someone else MIGHT have started talking before you.
   - when in doubt, be the first to pause and say "oh! go ahead?" and at least check in. 
-- **audio quality.**
+- **microphone quality.**
   - we recordin', so gussy up your audio input if you can.
   - use your best stuff! standalone mic? good headset? let your pretty voice ring true, y'all.
-  - also do mic checks (scratch or puff tests), operating systems love to fuck with default mic settings. 
+  - also do mic checks (scratch or puff tests), operating systems love to fuck with default mic settings.
+- **speakers/headphones.**
+  - make sure you can clearly hear what's happening.
+  - if you need to use an open speaker, go for it, but know that you have to monitor more closely to avoid these issues.
 - **body language cues.**
   - some of the above happen mostly because we aren't sharing physical space.
   - we give all kinds of visual feedback to each other unconsciously in bodies, faces, etc. 
