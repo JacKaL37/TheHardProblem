@@ -33,6 +33,7 @@ Socrates Prompt (internal):
 Discussant Instructions Prompt:
 - some instructions for the conversation in general
   - what's a good universal "goal" for this eternal AI party?
+    - general: cogent ideas toward onboarding novices to the philosophical debates
   - some sort of example of the discussion format.
   - other sources for "how to engage"-- "Socratic Method"?
   - "use rhetorical debate".
