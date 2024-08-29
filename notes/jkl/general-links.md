@@ -15,3 +15,8 @@
 ## Resources
 
 - 3blue1brown video series
+
+
+
+
+- https://www.acrobiosystems.com/A2398-Disease-and-human-models.html
