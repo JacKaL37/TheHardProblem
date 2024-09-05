@@ -186,6 +186,17 @@ no true meaning in their steps
 mind's depth still unknown
 ```
 
+---
+
+Oh fuck, buddy, Searle... I have terrible news for you. 
+
+LLMs trade exclusively on semantics. That's literally the entire point. 
+
+Aw man, this must be embarassing for you. 
+
+</shittalk>
+
+
 
 
 ---
