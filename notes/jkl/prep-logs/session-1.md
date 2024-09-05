@@ -29,6 +29,12 @@ I got some thoughts, but this is a learning exercise for me, too.
 
 ===
 
+Topics: 
+- "understanding" as a fundamental thing philosophers love to fight about, and that I have basically no interest in. 
+  - they forget that they are brains that evolved in service of taking actions
+  - to "understand" something FEELS important-- but what IS it? is there even a specific qualia associated with it?
+  - and moreover-- if something demonstrates the ability to take action, takes that action, and then can explain the reasoning for taking that action, the process for deciding on, planning, and executing that action, and the implications that likely follow from that action
+    - then where ISN'T the understanding?
 
 Searle
 
@@ -212,3 +218,32 @@ Other places Searle shows up in the document:
 ## 23. Artificial Intelligence and Consciousness
 
 
+
+---
+
+
+Seeing as a State 
+- States are almost like insects, they're almost robotics
+- BUT, they're also Superintelligences!
+  - too many parts, portions, complexities, etc.
+
+
+
+consciousness as a story
+- the self I is one of the plotlines you tell yoursellf
+
+
+
+When does a super-organism become consciousness. 
+
+
+
+-- producer notes: gotta self-check vocab
+
+
+
+https://www.loom.com/share/52ea4f05239a4a289f5eed62d4ef98d9
+
+
+
+-- Empathy, and Critical Thinking
