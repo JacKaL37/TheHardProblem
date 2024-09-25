@@ -3,6 +3,7 @@
    - Questioning everything: knowledge, reality, senses
    - *What if I’m wrong about everything?*
    - Pulls doubt further than everyday introspection
+   - Why: philosophy is often about epistemology-- what is knowable. This digs deeply into that. 
 - Evil demon thought experiment
    - Imagines an all-powerful deceiver manipulating reality
    - Puts all sensory experience into question
