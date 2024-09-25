@@ -6,6 +6,10 @@ document source:
 https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Descartes-1641%20Meditations-on-first-philosophy.pdf
 
 
+relevant ai chat links:
+- https://chatgpt.com/share/66f49318-c818-8005-b4ea-0d5b5b379ab1
+
+
 provocateur~!
 - "if I stop thinking, I might stop existing." - Descartes
   - an interesting wrinkle!
